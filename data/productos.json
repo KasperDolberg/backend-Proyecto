@@ -1,0 +1,26 @@
+{
+    "1": {
+      "id": 1,
+      "title": "Producto 1",
+      "description": "Descripción del Producto 1",
+      "code": "P001",
+      "price": 19.99,
+      "status": true,
+      "stock": 50,
+      "category": "Electrónicos",
+      "thumbnails": ["thumbnail1.jpg", "thumbnail2.jpg"]
+    },
+    "2": {
+      "id": 2,
+      "title": "Producto 2",
+      "description": "Descripción del Producto 2",
+      "code": "P002",
+      "price": 29.99,
+      "status": true,
+      "stock": 30,
+      "category": "Ropa",
+      "thumbnails": ["thumbnail3.jpg", "thumbnail4.jpg"]
+    }
+    
+  }
+  
